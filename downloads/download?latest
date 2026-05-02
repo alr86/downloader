@@ -1,0 +1,465 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<HTML><HEAD>
+  <META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=UTF-8'/>
+  <META NAME="viewport" CONTENT="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=1" />
+  <TITLE>husi - IzzyOnDroid F-Droid Repository</TITLE>
+  <LINK REL='stylesheet' TYPE='text/css' HREF='/fdroid/templates/main.css' />
+  <LINK REL='stylesheet' TYPE='text/css' HREF='/fdroid/templates/appdetails.css' />
+  <LINK REL='stylesheet' TYPE='text/css' HREF='/fdroid/templates/dark.css' />
+  <LINK REL='icon' HREF='/fdroid/izzy-on-droid.png' TYPE='image/png' />
+  <LINK REL='shortcut icon' HREF='/fdroid/izzy-on-droid.png' TYPE='image/png' />
+  <SCRIPT TYPE='text/javascript' SRC='/fdroid/templates/toggle.js'></SCRIPT>
+  <SCRIPT TYPE='text/javascript' SRC='/fdroid/templates/open_popup.js'></SCRIPT>
+  <META property="og:site_name" content="IzzyOnDroid Repo Browser" />
+  <META property="og:title" content="„husi“ – IzzyOnDroid F-Droid Repository" />
+  <META property="og:description" content="Husi is a non-professional and recreational proxy tool integration." />
+  <META property="og:image" content="/fdroid/repo/fr.husi/en-US/icon.png" />
+  <META property="og:determiner" content="" />
+  <META name="fediverse:creator" content="@IzzyOnDroid@floss.social">
+  <META NAME='robots' CONTENT='index,nofollow'/>
+</HEAD><BODY>
+<div id='appdetails'>
+  <h2>husi</h2>
+  <div id='summary' class='minor-details'>Husi is a non-professional and recreational proxy tool integration.</div>
+  <div id='keydata'>
+    <table class='keydatatable' border='0'>
+      <tr><td><b>AppID:</b></td><td>fr.husi</td></tr>
+      <tr><td><b>Author:</b></td><td><a href='/fdroid?author=HystericalDragon' title='Apps by HystericalDragon'>HystericalDragon</a></td></tr>
+      <tr><td><b>License:</b></td><td><a href='/fdroid?doFilter=1;license=GPL-3.0-or-later' title='Apps using the „GPL-3.0-or-later“ license'>GPL-3.0-or-later</a></td></tr>
+      <tr style='display:none;'><td style='vertical-align:top;'><b>Donation:</b></td><td></td></tr>
+      <tr><td><b>InRepoSince:</b></td><td>2024-01-25</td></tr>
+      <tr><td><b>LastRepoUpdate:</b></td><td>2026-04-30</td></tr>
+      <tr><td><b>LastAppUpdate:</b></td><td>2026-04-30</td></tr>
+      <tr><td><b>LastVersion:</b></td><td>1.2.0-beta.1</td></tr>
+      <tr><td><b>Categories:</b></td><td><a href='/fdroid?doFilter=1;cat=Internet' title='Apps categorized „Internet“'>Internet</a></td></tr>
+      <tr style=''><td><b>APK source:</b></td><td>Codeberg/Forgejo/Gitea</td></tr>
+      <tr><td><b class='minor-details'>Google Play:</b></td><td><span class='minor-details'><a href='https://play.google.com/store/apps/details?id=fr.husi' title='Is it at Google Play?'>Check if it's there</a></span></td></tr>
+    </table>
+  </div>
+  <div id='desc'><img class='appicon' src='/fdroid/repo/fr.husi/en-US/icon.png' alt='icon' align='left'>
+  <p>Husi is a non-professional and recreational proxy tool integration, aiming at promoting proxy customization.</p>
+  
+  
+  </div>
+  <div class='package'><center>
+    <a class='paddedlink' href='/fdroid/repo/fr.husi_470.apk'>Download</a>
+    <a class='paddedlink' href='https://codeberg.org/IzzyOnDroid/repodata/src/branch/main/metadata/fr.husi.yml'>Metadata</a>
+    <a class='paddedlink' href='https://codeberg.org/xchacha20-poly1305/husi'>Source</a>
+    <a class='paddedlink' href='https://codeberg.org/xchacha20-poly1305/husi/issues'>Issues</a>
+    <a class='paddedlink' href='https://codeberg.org/xchacha20-poly1305/husi/releases'>ChangeLog</a></center></div>
+
+  
+  <div class='screenshots'>
+    <a href='/fdroid/repo/fr.husi/en-US/phoneScreenshots/1.png'><img src='/fdroid/repo/fr.husi/en-US/phoneScreenshots/1.png' alt='1.png'></a>
+    <a href='/fdroid/repo/fr.husi/en-US/phoneScreenshots/2.png'><img src='/fdroid/repo/fr.husi/en-US/phoneScreenshots/2.png' alt='2.png'></a>
+    <a href='/fdroid/repo/fr.husi/en-US/phoneScreenshots/3.png'><img src='/fdroid/repo/fr.husi/en-US/phoneScreenshots/3.png' alt='3.png'></a>
+    <a href='/fdroid/repo/fr.husi/en-US/phoneScreenshots/4.png'><img src='/fdroid/repo/fr.husi/en-US/phoneScreenshots/4.png' alt='4.png'></a>
+    <a href='/fdroid/repo/fr.husi/en-US/phoneScreenshots/5.png'><img src='/fdroid/repo/fr.husi/en-US/phoneScreenshots/5.png' alt='5.png'></a></div>
+
+  <div id='clienthint' class='packagelist'><div class='package hint'>
+    While you can download the APKs here directly, you should preferably use an <a href='https://android.izzysoft.de/applists/category/named/apps_markets#group_1181'>F-Droid client</a> so the app stays up-to-date on your device. Some clients have this repo enabled by default, e.g. <a href='https://apt.izzysoft.de/packages/com.machiav3lli.fdroid/'>Neo Store</a>, <a href='https://apt.izzysoft.de/packages/com.looker.droidify'>Droid-ify</a>, or, of course, the <a href='https://apt.izzysoft.de/packages/in.sunilpaulmathew.izzyondroid/'>IzzyOnDroid</a> client by Sunil. With others (like <a href='https://f-droid.org/packages/org.fdroid.fdroid/'>the official client</a>) you'll have to add this repo manually (see the hint on top of the <a href='/fdroid'>package list</a> for how to do that).
+  </div></div>
+
+  <div class='packagelist'>
+    <h3>Packages</h3>
+
+    <div class='package'>
+      <h4 class='toggle' toggle='pkg470'>Version 1.2.0-beta.1 (2026-04-30) <img class='applink_icon' src='/fdroid/templates/icons/shield-empty.svg' alt='no RB details available' title='no RB details available' style='transform:rotate(90deg);'> <a href='/fdroid/index/info#rb' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h4>
+      <div id='pkg470' >
+      <h5>Android Versions:</h5>
+      <ul>
+        <li>Target: 16.0</li>
+        <li>MinVer: 7.0</li>
+        <li>ABIs: arm64-v8a</li></ul>
+      <div class='signing hidden'>
+        <h5 toggle='signing470' class='toggle'> <a href='' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <div id='signing470' style='visibility:hidden;display:none;'>
+          <p>:</p><ul></ul>
+        </div>
+      </div>
+      <div class='specialaccess '>
+        <h5 toggle='specialaccess470' class='toggle'>App Configuration & Special Access <a href='/fdroid/index/info#manifest' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+          <div id='specialaccess470' style='visibility:hidden;display:none;'>
+          <div class='flags hidden'>
+            <p>:</p><ul><li>none</li></ul>
+          </div>
+          <div class='intentfilters '>
+            <p>Sensitive Intent Filters:</p><ul>
+              <li class=''><code>android.net.VpnService</code>: Proxy functionality is provided using an VPN service.</li></ul>
+          </div>
+        </div>
+      </div>
+      <div class='permissions'>
+        <h5 toggle='perm470' class='toggle'>Permissions: <a href='/fdroid/index/info#perms' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <ul id='perm470' class='permissionlist' style='visibility:hidden;display:none;'>
+          <li class='sensitive' title='access location in the background
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_BACKGROUND_LOCATION'>ACCESS_BACKGROUND_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='sensitive' title='Approximate location (network-based)
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_COARSE_LOCATION'>ACCESS_COARSE_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='sensitive' title='Precise location (GPS and network-based)
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_FINE_LOCATION'>ACCESS_FINE_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='normal' title=''>android.permission.ACCESS_LOCAL_NETWORK</li>
+          <li class='normal' title='View network connections'><a href='https://android.izzysoft.de/applists/perms#ACCESS_NETWORK_STATE'>ACCESS_NETWORK_STATE</a></li>
+          <li class='normal' title='View Wi-Fi connections'><a href='https://android.izzysoft.de/applists/perms#ACCESS_WIFI_STATE'>ACCESS_WIFI_STATE</a></li>
+          <li class='sensitive' title='Take pictures and videos
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#CAMERA'>CAMERA</a><span> (for the integrated QR code scanner)</span></li>
+          <li class='normal' title='Change network connectivity'><a href='https://android.izzysoft.de/applists/perms#CHANGE_NETWORK_STATE'>CHANGE_NETWORK_STATE</a></li>
+          <li class='normal' title='Expand/collapse status bar'><a href='https://android.izzysoft.de/applists/perms#EXPAND_STATUS_BAR'>EXPAND_STATUS_BAR</a></li>
+          <li class='normal' title='Foreground Service'><a href='https://android.izzysoft.de/applists/perms#FOREGROUND_SERVICE'>FOREGROUND_SERVICE</a></li>
+          <li class='normal' title='Convey type of Foreground Service'><a href='https://android.izzysoft.de/applists/perms#FOREGROUND_SERVICE_SPECIAL_USE'>FOREGROUND_SERVICE_SPECIAL_USE</a></li>
+          <li class='normal' title=''>android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED</li>
+          <li class='normal' title='Full network access'><a href='https://android.izzysoft.de/applists/perms#INTERNET'>INTERNET</a></li>
+          <li class='sensitive' title='Required to be able to advertise and connect to nearby devices via Wi-Fi.
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#NEARBY_WIFI_DEVICES'>NEARBY_WIFI_DEVICES</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='normal' title='post notifications'><a href='https://android.izzysoft.de/applists/perms#POST_NOTIFICATIONS'>POST_NOTIFICATIONS</a></li>
+          <li class='sensitive' title='query apps on the device
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#QUERY_ALL_PACKAGES'>QUERY_ALL_PACKAGES</a><span> (to select apps that shall bypass VPN and to find apps providing VPN services)</span></li>
+          <li class='warning' title='Read the contents of your usb storage
+This is considered a sensitive permission. Please check carefully if it meets the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#READ_EXTERNAL_STORAGE'>READ_EXTERNAL_STORAGE</a></li>
+          <li class='normal' title='Run at startup'><a href='https://android.izzysoft.de/applists/perms#RECEIVE_BOOT_COMPLETED'>RECEIVE_BOOT_COMPLETED</a></li>
+          <li class='normal' title='Request exclusion from battery optimizations'><a href='https://android.izzysoft.de/applists/perms#REQUEST_IGNORE_BATTERY_OPTIMIZATIONS'>REQUEST_IGNORE_BATTERY_OPTIMIZATIONS</a></li>
+          <li class='normal' title='Prevent device from sleeping'><a href='https://android.izzysoft.de/applists/perms#WAKE_LOCK'>WAKE_LOCK</a></li>
+          <li class='normal' title='Modify or delete the contents of your USB storage'><a href='https://android.izzysoft.de/applists/perms#WRITE_EXTERNAL_STORAGE'>WRITE_EXTERNAL_STORAGE</a></li>
+          <li class='normal' title=''>com.android.permission.GET_INSTALLED_APPS</li>
+          <li class='normal' title='app only accepts its own intents'><a href='https://android.izzysoft.de/applists/perms#DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'>DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</a></li>
+          <li class='normal' title=''>fr.husi.permission.SERVICE</li></ul>
+      </div>
+      <div class='features hidden'>
+        <h5 toggle='feat470' class='toggle'>Features:</h5>
+        <ul id='feat470' class='featurelist' style='visibility:hidden;display:none;'>
+          <li>None</li></ul>
+      </div>
+      <div class='vt'>
+        <h5>Malware-Check:<span class='shield shield-ok'><a rel='nofollow' href='https://www.virustotal.com/gui/file/af9480b4427c8fa157bee5e9e9e47e6bebc1e28c928fd839d209b347ccb73332/detection/f-af9480b4427c8fa157bee5e9e9e47e6bebc1e28c928fd839d209b347ccb73332-1777553334' title='0 out of 65 scanners reported findings. Click for details.'>Passed</a></span> <a href='/fdroid/index/info#vt' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+      </div>
+      
+      <div class='modules'>
+        <h5 toggle='mod470' class='toggle'>56 Libraries detected: <a href='/fdroid/index/info#libs' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <div id='mod470' class='modulelist' style='visibility:hidden;display:none;'>
+          <div id='libs470' class='liblist'><b>Libraries:</b><ul>
+            <li><a href='https://developer.android.com/reference/android/support/v4/app/package-summary.html' rel='nofollow'>Android Support v4</a> (Development Framework) <span class='toggle' toggle='android_support_v4_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='android_support_v4_470' class='libdetails' style='visibility:hidden;display:none;'>The Android Support Library is not actually a single library, but rather a collection of libraries that can roughly be divided into two groups: compatibility and component libraries. For details, please see <a rel='nofollow' href='http://martiancraft.com/blog/2015/06/android-support-library/' target='_blank'>Understanding the Android Support Library</a>.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx' rel='nofollow'>AndroidX Activity</a> (Utility) <span class='toggle' toggle='androidx_activity_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_activity_470' class='libdetails' style='visibility:hidden;display:none;'>provides the base Activity subclass and the relevant hooks to build a composable structure on top.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/annotation' rel='nofollow'>Android Jetpack Annotations</a> (Utility) <span class='toggle' toggle='androidx_annotation_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_annotation_470' class='libdetails' style='visibility:hidden;display:none;'>library that contains the annotations for Android Jetpack.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/arch' rel='nofollow'>Arch</a> (Utility) <span class='toggle' toggle='androidx_arch_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_arch_470' class='libdetails' style='visibility:hidden;display:none;'>helper for other arch dependencies, including JUnit test rules that can be used with LiveData.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/appcompat' rel='nofollow'>AppCompat</a> (Utility) <span class='toggle' toggle='androidx_appcompat_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_appcompat_470' class='libdetails' style='visibility:hidden;display:none;'>support newer Android features on older Android versions.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/camera' rel='nofollow'>CameraX</a> (Utility) <span class='toggle' toggle='androidx_camera_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_camera_470' class='libdetails' style='visibility:hidden;display:none;'>an addition to Android Jetpack that makes it easier to add camera capabilities.</div></li>
+            <li><a href='https://developer.android.com/tools/extras/support-library.html' rel='nofollow'>Android Support Library collections</a> (Utility) <span class='toggle' toggle='androidx_collection_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_collection_470' class='libdetails' style='visibility:hidden;display:none;'>standalone efficient collections.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/compose' rel='nofollow'>Jetpack Compose</a> (Development Framework) <span class='toggle' toggle='androidx_compose_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_compose_470' class='libdetails' style='visibility:hidden;display:none;'>a framework to define UIs programmatically with composable functions that describe its shape and data dependencies.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/concurrent' rel='nofollow'>Concurrent</a> (Utility) <span class='toggle' toggle='androidx_concurrent_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_concurrent_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to help move tasks off the main thread with coroutines and take advantage of ListenableFuture.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/core' rel='nofollow'>Androidx Core</a> (Utility) <span class='toggle' toggle='androidx_core_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_core_470' class='libdetails' style='visibility:hidden;display:none;'>a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/customview/' rel='nofollow'>Android Support Library Custom View</a> (UI Component) <span class='toggle' toggle='androidx_customview_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_customview_470' class='libdetails' style='visibility:hidden;display:none;'>a module to implement custom views. Part of the Android Support Library.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/datastore' rel='nofollow'>DataStore</a> (Development Aid) <span class='toggle' toggle='androidx_datastore_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_datastore_470' class='libdetails' style='visibility:hidden;display:none;'>stores data asynchronously, consistently, and transactionally, overcoming some of the drawbacks of SharedPreferences.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/emoji2/' rel='nofollow'>Android Emoji2 Compat</a> (UI Component) <span class='toggle' toggle='androidx_emoji2_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_emoji2_470' class='libdetails' style='visibility:hidden;display:none;'>core library to enable emoji compatibility in Kitkat and newer devices to avoid the empty emoji characters.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/fragment/' rel='nofollow'>AndroidX Fragment</a> (UI Component) <span class='toggle' toggle='androidx_fragment_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_fragment_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to encapsulate part of the user interface or behavior into reusable components.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/graphics' rel='nofollow'>Androidx Graphics</a> (Utility) <span class='toggle' toggle='androidx_graphics_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_graphics_470' class='libdetails' style='visibility:hidden;display:none;'>leverages graphics facilities across multiple Android platform releases.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/interpolator' rel='nofollow'>Interpolator</a> (UI Component) <span class='toggle' toggle='androidx_interpolator_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_interpolator_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to use animation interpolators on older platforms.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle' rel='nofollow'>Lifecycle</a> (Utility) <span class='toggle' toggle='androidx_lifecycle_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_lifecycle_470' class='libdetails' style='visibility:hidden;display:none;'>perform actions in response to a change in the lifecycle status of another component, such as activities and fragments.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/loader' rel='nofollow'>Loader</a> (Utility) <span class='toggle' toggle='androidx_loader_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_loader_470' class='libdetails' style='visibility:hidden;display:none;'>library to load data for your UI that survives configuration changes.</div></li>
+            <li><a href='https://github.com/androidx/androidx/tree/androidx-main/navigation3' rel='nofollow'>Androidx Navigation 3</a> (UI Component) <span class='toggle' toggle='androidx_navigation3_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_navigation3_470' class='libdetails' style='visibility:hidden;display:none;'>provides the building blocks for a Compose first Navigation solution that easily supports extensions.</div></li>
+            <li><a href='https://github.com/androidx/androidx/tree/androidx-main/navigationevent' rel='nofollow'>Androidx Navigation Event</a> (UI Component) <span class='toggle' toggle='androidx_navigationevent_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_navigationevent_470' class='libdetails' style='visibility:hidden;display:none;'>provides APIs to easily intercept platform navigation events, including swipes and clicks, to provide a consistent API surface for handling these events.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/profileinstaller' rel='nofollow'>ProfileInstaller</a> (Utility) <span class='toggle' toggle='androidx_profileinstaller_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_profileinstaller_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library that enables libraries to prepopulate ahead of time compilation traces to be read by ART.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/room' rel='nofollow'>Room</a> (Utility) <span class='toggle' toggle='androidx_room_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_room_470' class='libdetails' style='visibility:hidden;display:none;'>a persistence library that provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx' rel='nofollow'>Android Activity Saved State</a> (Utility) <span class='toggle' toggle='androidx_savedstate_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_savedstate_470' class='libdetails' style='visibility:hidden;display:none;'>provides the base Activity subclass and the relevant hooks to build a composable structure on top.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/sqlite' rel='nofollow'>Sqlite</a> (Utility) <span class='toggle' toggle='androidx_sqlite_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_sqlite_470' class='libdetails' style='visibility:hidden;display:none;'>library that contains abstract interfaces along with basic implementations which can be used to build your own libraries that access SQLite.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/startup' rel='nofollow'>Startup</a> (Utility) <span class='toggle' toggle='androidx_startup_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_startup_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to implement a straightforward, performant way to initialize components at app startup.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/tracing' rel='nofollow'>Tracing</a> (Utility) <span class='toggle' toggle='androidx_tracing_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_tracing_470' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to write trace events to the system trace buffer.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/tv' rel='nofollow'>AndroidX TV</a> (UI Component) <span class='toggle' toggle='androidx_tv_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_tv_470' class='libdetails' style='visibility:hidden;display:none;'>provides developers with Compose and Material design functionalities in order to write applications for TV</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/versionedparcelable' rel='nofollow'>Android Jetpack VersionedParcelable</a> (Utility) <span class='toggle' toggle='androidx_versionedparcelable_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_versionedparcelable_470' class='libdetails' style='visibility:hidden;display:none;'>Provides a stable but relatively compact binary serialization format that can be passed across processes or persisted safely.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/window/' rel='nofollow'>Jetpack WindowManager Library</a> (Utility) <span class='toggle' toggle='androidx_window_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_window_470' class='libdetails' style='visibility:hidden;display:none;'>enables application developers to support new device form factors and multi-window environments. The library provides a common API surface for API versions 14 and later. Especially provides additional functionality on foldable devices.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/work' rel='nofollow'>WorkManager</a> (Utility) <span class='toggle' toggle='androidx_work_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_work_470' class='libdetails' style='visibility:hidden;display:none;'>an API that makes it easy to schedule deferrable, asynchronous tasks that must be run reliably .</div></li>
+            <li><a href='https://github.com/google/smali' rel='nofollow'>smali/baksmali</a> (Utility) <span class='toggle' toggle='com_android_tools_smali_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_android_tools_smali_470' class='libdetails' style='visibility:hidden;display:none;'>an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.</div></li>
+            <li><a href='https://github.com/ernestoyaquello/DragDropSwipeLazyColumn' rel='nofollow'>Drag & Drop n' Swipe LazyColumn</a> (UI Component) <span class='toggle' toggle='com_ernestoyaquello_dragdropswipelazycolumn_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_ernestoyaquello_dragdropswipelazycolumn_470' class='libdetails' style='visibility:hidden;display:none;'>Kotlin Android library for Jetpack Compose that implements a lazy column with drag-and-drop reordering and swipe-to-dismiss functionality.</div></li>
+            <li><a href='https://github.com/EsotericSoftware/kryo' rel='nofollow'>Kryo</a> (Utility) <span class='toggle' toggle='com_esotericsoftware_kryo_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_esotericsoftware_kryo_470' class='libdetails' style='visibility:hidden;display:none;'>an object graph serialization framework for Java.</div></li>
+            <li><a href='https://github.com/google/accompanist' rel='nofollow'>Accompanist</a> (Utility) <span class='toggle' toggle='com_google_accompanist_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_accompanist_470' class='libdetails' style='visibility:hidden;display:none;'>a collection of extension libraries for Jetpack Compose.</div></li>
+            <li><a href='https://github.com/google/guava' rel='nofollow'>Google Core Libraries for Java 6+</a> (Utility) <span class='toggle' toggle='com_google_common_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_common_470' class='libdetails' style='visibility:hidden;display:none;'>a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more.</div></li>
+            <li><a href='https://github.com/zxing/zxing' rel='nofollow'>ZXing ('Zebra Crossing')</a> (Utility) <span class='toggle' toggle='com_google_zxing_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_zxing_470' class='libdetails' style='visibility:hidden;display:none;'>ZXing („zebra crossing“) is an open-source, multi-format 1D/2D barcode image processing library.</div></li>
+            <li><a href='https://github.com/JakeWharton/ProcessPhoenix' rel='nofollow'>Process Phoenix</a> (Utility) <span class='toggle' toggle='com_jakewharton_processphoenix_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_jakewharton_processphoenix_470' class='libdetails' style='visibility:hidden;display:none;'>facilitates restarting your application process (like a Phoenix from the ashes).</div></li>
+            <li><a href='https://github.com/mikepenz/AboutLibraries' rel='nofollow'>AboutLibraries</a> (Utility) <span class='toggle' toggle='com_mikepenz_aboutlibraries_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_mikepenz_aboutlibraries_470' class='libdetails' style='visibility:hidden;display:none;'>a library to offer some information about libraries.</div></li>
+            <li><a href='https://github.com/skydoves/compose-stability-analyzer' rel='nofollow'>Compose Stability Analyzer</a> (Utility) <span class='toggle' toggle='com_skydoves_compose_stability_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_skydoves_compose_stability_470' class='libdetails' style='visibility:hidden;display:none;'>Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.</div></li>
+            <li><a href='https://github.com/Qawaz/compose-code-editor' rel='nofollow'>Compose Code Editor (Multiplatform)</a> (Utility) <span class='toggle' toggle='com_wakaztahir_codeeditor_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_wakaztahir_codeeditor_470' class='libdetails' style='visibility:hidden;display:none;'>a code highlighting / editing library for compose , it does not make use of web view so it renders fast.</div></li>
+            <li><a href='https://github.com/google/dagger' rel='nofollow'>Dagger</a> (Utility) <span class='toggle' toggle='dagger_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='dagger_470' class='libdetails' style='visibility:hidden;display:none;'>A fast dependency injector for Android and Java.</div></li>
+            <li><a href='https://github.com/oikvpqya/fastscroller-compose-multiplatform' rel='nofollow'>FastScroller for Compose Multiplatform</a> (UI Component) <span class='toggle' toggle='io_github_oikvpqya_compose_fastscroller_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='io_github_oikvpqya_compose_fastscroller_470' class='libdetails' style='visibility:hidden;display:none;'>a scrollbar for Compose Multiplatform.</div></li>
+            <li><a href='https://github.com/vinceglb/FileKit' rel='nofollow'>FileKit</a> (Utility) <span class='toggle' toggle='io_github_vinceglb_filekit_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='io_github_vinceglb_filekit_470' class='libdetails' style='visibility:hidden;display:none;'>a cross-platform file operations library for Kotlin Multiplatform.</div></li>
+            <li><a href='https://docs.oracle.com/javaee/6/api/javax/inject/package-summary.html' rel='nofollow'>JavaX Dependency Injection</a> (Utility) <span class='toggle' toggle='javax_inject_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='javax_inject_470' class='libdetails' style='visibility:hidden;display:none;'>specifies a means for obtaining objects in such a way as to maximize reusability, testability and maintainability compared to traditional approaches such as constructors, factories, and service locators (e.g., JNDI). This process, known as dependency injection, is beneficial to most nontrivial applications.</div></li>
+            <li><a href='https://github.com/JetBrains/kotlin' rel='nofollow'>Kotlin</a> (Utility) <span class='toggle' toggle='kotlin_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlin_470' class='libdetails' style='visibility:hidden;display:none;'>The Kotlin Programming Language</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.atomicfu' rel='nofollow'>AtomicFU</a> (Utility) <span class='toggle' toggle='kotlinx_atomicfu_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_atomicfu_470' class='libdetails' style='visibility:hidden;display:none;'>the idiomatic way to use atomic operations in Kotlin.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.collections.immutable' rel='nofollow'>Immutable Collections Library for Kotlin</a> (Utility) <span class='toggle' toggle='kotlinx_collections_immutable_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_collections_immutable_470' class='libdetails' style='visibility:hidden;display:none;'>immutable collection interfaces and implementation prototypes for Kotlin.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.coroutines' rel='nofollow'>kotlinx.coroutines</a> (Utility) <span class='toggle' toggle='kotlinx_coroutines_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_coroutines_470' class='libdetails' style='visibility:hidden;display:none;'>library support for Kotlin coroutines.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx-datetime' rel='nofollow'>kotlinx-datetime</a> (Utility) <span class='toggle' toggle='kotlinx_datetime_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_datetime_470' class='libdetails' style='visibility:hidden;display:none;'>a multiplatform Kotlin library for working with date and time.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx-io' rel='nofollow'>kotlinx-io</a> (Utility) <span class='toggle' toggle='kotlinx_io_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_io_470' class='libdetails' style='visibility:hidden;display:none;'>a multiplatform Kotlin library providing basic IO primitives.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.serialization' rel='nofollow'>Kotlin serialization</a> (Utility) <span class='toggle' toggle='kotlinx_serialization_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_serialization_470' class='libdetails' style='visibility:hidden;display:none;'>Kotlin cross-platform / multi-format serialization.</div></li>
+            <li><a href='https://github.com/zhanghai/ComposePreference' rel='nofollow'>Compose Preference</a> (UI Component) <span class='toggle' toggle='me_zhanghai_compose_preference_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='me_zhanghai_compose_preference_470' class='libdetails' style='visibility:hidden;display:none;'>preference implementation for Jetpack Compose Material 3.</div></li>
+            <li><a href='https://github.com/square/okio' rel='nofollow'>OkHttp okio Framework</a> (Utility) <span class='toggle' toggle='okio_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='okio_470' class='libdetails' style='visibility:hidden;display:none;'>A modern I/O API for Java to make it much easier to access, store, and process your data.</div></li>
+            <li><a href='http://ini4j.sourceforge.net/' rel='nofollow'>ini4j</a> (Utility) <span class='toggle' toggle='org_ini4j_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_ini4j_470' class='libdetails' style='visibility:hidden;display:none;'>Java API for handling Windows ini file format.</div></li>
+            <li><a href='https://github.com/JetBrains/compose-multiplatform' rel='nofollow'>Compose Multiplatform</a> (Development Framework) <span class='toggle' toggle='org_jetbrains_compose_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_jetbrains_compose_470' class='libdetails' style='visibility:hidden;display:none;'>a declarative framework for sharing UIs across multiple platforms with Kotlin.</div></li>
+            <li><a href='https://github.com/Ekito/koin' rel='nofollow'>KOIN</a> (Utility) <span class='toggle' toggle='org_koin_470'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_koin_470' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+          <div id='pays470' class='liblist'><b>Payment Modules:</b><ul>
+            <li>None found <span class='hidden'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='no_pay_470' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+          <div id='admods470' class='liblist'><b>Ads &amp; Analytics:</b><ul>
+            <li>None found <span class='hidden'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='no_ad_470' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+        </div>
+      </div>
+      <p><a class='paddedlink' href='/fdroid/repo/fr.husi_470.apk'>Download</a> (24.4 M)</p>
+      </div>
+    </div>
+    <div class='package'>
+      <h4 class='toggle' toggle='pkg468'>Version 1.2.0-alpha.3 (2026-04-20) <img class='applink_icon' src='/fdroid/templates/icons/shield-empty.svg' alt='no RB details available' title='no RB details available' style='transform:rotate(90deg);'> <a href='/fdroid/index/info#rb' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h4>
+      <div id='pkg468' class='toggle' style='visibility:hidden;display:none;'>
+      <h5>Android Versions:</h5>
+      <ul>
+        <li>Target: 16.0</li>
+        <li>MinVer: 7.0</li>
+        <li>ABIs: arm64-v8a</li></ul>
+      <div class='signing hidden'>
+        <h5 toggle='signing468' class='toggle'> <a href='' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <div id='signing468' style='visibility:hidden;display:none;'>
+          <p>:</p><ul></ul>
+        </div>
+      </div>
+      <div class='specialaccess '>
+        <h5 toggle='specialaccess468' class='toggle'>App Configuration & Special Access <a href='/fdroid/index/info#manifest' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+          <div id='specialaccess468' style='visibility:hidden;display:none;'>
+          <div class='flags hidden'>
+            <p>:</p><ul><li>none</li></ul>
+          </div>
+          <div class='intentfilters '>
+            <p>Sensitive Intent Filters:</p><ul>
+              <li class=''><code>android.net.VpnService</code>: Proxy functionality is provided using an VPN service.</li></ul>
+          </div>
+        </div>
+      </div>
+      <div class='permissions'>
+        <h5 toggle='perm468' class='toggle'>Permissions: <a href='/fdroid/index/info#perms' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <ul id='perm468' class='permissionlist' style='visibility:hidden;display:none;'>
+          <li class='sensitive' title='access location in the background
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_BACKGROUND_LOCATION'>ACCESS_BACKGROUND_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='sensitive' title='Approximate location (network-based)
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_COARSE_LOCATION'>ACCESS_COARSE_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='sensitive' title='Precise location (GPS and network-based)
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#ACCESS_FINE_LOCATION'>ACCESS_FINE_LOCATION</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='normal' title=''>android.permission.ACCESS_LOCAL_NETWORK</li>
+          <li class='normal' title='View network connections'><a href='https://android.izzysoft.de/applists/perms#ACCESS_NETWORK_STATE'>ACCESS_NETWORK_STATE</a></li>
+          <li class='normal' title='View Wi-Fi connections'><a href='https://android.izzysoft.de/applists/perms#ACCESS_WIFI_STATE'>ACCESS_WIFI_STATE</a></li>
+          <li class='sensitive' title='Take pictures and videos
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#CAMERA'>CAMERA</a><span> (for the integrated QR code scanner)</span></li>
+          <li class='normal' title='Change network connectivity'><a href='https://android.izzysoft.de/applists/perms#CHANGE_NETWORK_STATE'>CHANGE_NETWORK_STATE</a></li>
+          <li class='normal' title='Expand/collapse status bar'><a href='https://android.izzysoft.de/applists/perms#EXPAND_STATUS_BAR'>EXPAND_STATUS_BAR</a></li>
+          <li class='normal' title='Foreground Service'><a href='https://android.izzysoft.de/applists/perms#FOREGROUND_SERVICE'>FOREGROUND_SERVICE</a></li>
+          <li class='normal' title='Convey type of Foreground Service'><a href='https://android.izzysoft.de/applists/perms#FOREGROUND_SERVICE_SPECIAL_USE'>FOREGROUND_SERVICE_SPECIAL_USE</a></li>
+          <li class='normal' title=''>android.permission.FOREGROUND_SERVICE_SYSTEM_EXEMPTED</li>
+          <li class='normal' title='Full network access'><a href='https://android.izzysoft.de/applists/perms#INTERNET'>INTERNET</a></li>
+          <li class='sensitive' title='Required to be able to advertise and connect to nearby devices via Wi-Fi.
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#NEARBY_WIFI_DEVICES'>NEARBY_WIFI_DEVICES</a><span> (for retrieving WiFi information (can be denied if related enhancements are not needed))</span></li>
+          <li class='normal' title='post notifications'><a href='https://android.izzysoft.de/applists/perms#POST_NOTIFICATIONS'>POST_NOTIFICATIONS</a></li>
+          <li class='sensitive' title='query apps on the device
+This is considered a sensitive permission, but has been verified to meet the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#QUERY_ALL_PACKAGES'>QUERY_ALL_PACKAGES</a><span> (to select apps that shall bypass VPN and to find apps providing VPN services)</span></li>
+          <li class='warning' title='Read the contents of your usb storage
+This is considered a sensitive permission. Please check carefully if it meets the app’s purpose.'><a href='https://android.izzysoft.de/applists/perms#READ_EXTERNAL_STORAGE'>READ_EXTERNAL_STORAGE</a></li>
+          <li class='normal' title='Run at startup'><a href='https://android.izzysoft.de/applists/perms#RECEIVE_BOOT_COMPLETED'>RECEIVE_BOOT_COMPLETED</a></li>
+          <li class='normal' title='Request exclusion from battery optimizations'><a href='https://android.izzysoft.de/applists/perms#REQUEST_IGNORE_BATTERY_OPTIMIZATIONS'>REQUEST_IGNORE_BATTERY_OPTIMIZATIONS</a></li>
+          <li class='normal' title='Prevent device from sleeping'><a href='https://android.izzysoft.de/applists/perms#WAKE_LOCK'>WAKE_LOCK</a></li>
+          <li class='normal' title='Modify or delete the contents of your USB storage'><a href='https://android.izzysoft.de/applists/perms#WRITE_EXTERNAL_STORAGE'>WRITE_EXTERNAL_STORAGE</a></li>
+          <li class='normal' title=''>com.android.permission.GET_INSTALLED_APPS</li>
+          <li class='normal' title='app only accepts its own intents'><a href='https://android.izzysoft.de/applists/perms#DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'>DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</a></li>
+          <li class='normal' title=''>fr.husi.permission.SERVICE</li></ul>
+      </div>
+      <div class='features hidden'>
+        <h5 toggle='feat468' class='toggle'>Features:</h5>
+        <ul id='feat468' class='featurelist' style='visibility:hidden;display:none;'>
+          <li>None</li></ul>
+      </div>
+      <div class='vt'>
+        <h5>Malware-Check:<span class='shield shield-ok'><a rel='nofollow' href='https://www.virustotal.com/gui/file/c6753feacf1fcb4e142ecd5ca53d35df930995cd3281236fdbd1f4b549706592/detection/f-c6753feacf1fcb4e142ecd5ca53d35df930995cd3281236fdbd1f4b549706592-1776707278' title='0 out of 64 scanners reported findings. Click for details.'>Passed</a></span> <a href='/fdroid/index/info#vt' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+      </div>
+      
+      <div class='modules'>
+        <h5 toggle='mod468' class='toggle'>56 Libraries detected: <a href='/fdroid/index/info#libs' class='help' title='What is this?'><img class='applink_icon' src='/fdroid/templates/icons/info.png' alt='help icon'></a></h5>
+        <div id='mod468' class='modulelist' style='visibility:hidden;display:none;'>
+          <div id='libs468' class='liblist'><b>Libraries:</b><ul>
+            <li><a href='https://developer.android.com/reference/android/support/v4/app/package-summary.html' rel='nofollow'>Android Support v4</a> (Development Framework) <span class='toggle' toggle='android_support_v4_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='android_support_v4_468' class='libdetails' style='visibility:hidden;display:none;'>The Android Support Library is not actually a single library, but rather a collection of libraries that can roughly be divided into two groups: compatibility and component libraries. For details, please see <a rel='nofollow' href='http://martiancraft.com/blog/2015/06/android-support-library/' target='_blank'>Understanding the Android Support Library</a>.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx' rel='nofollow'>AndroidX Activity</a> (Utility) <span class='toggle' toggle='androidx_activity_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_activity_468' class='libdetails' style='visibility:hidden;display:none;'>provides the base Activity subclass and the relevant hooks to build a composable structure on top.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/annotation' rel='nofollow'>Android Jetpack Annotations</a> (Utility) <span class='toggle' toggle='androidx_annotation_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_annotation_468' class='libdetails' style='visibility:hidden;display:none;'>library that contains the annotations for Android Jetpack.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/arch' rel='nofollow'>Arch</a> (Utility) <span class='toggle' toggle='androidx_arch_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_arch_468' class='libdetails' style='visibility:hidden;display:none;'>helper for other arch dependencies, including JUnit test rules that can be used with LiveData.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/appcompat' rel='nofollow'>AppCompat</a> (Utility) <span class='toggle' toggle='androidx_appcompat_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_appcompat_468' class='libdetails' style='visibility:hidden;display:none;'>support newer Android features on older Android versions.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/camera' rel='nofollow'>CameraX</a> (Utility) <span class='toggle' toggle='androidx_camera_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_camera_468' class='libdetails' style='visibility:hidden;display:none;'>an addition to Android Jetpack that makes it easier to add camera capabilities.</div></li>
+            <li><a href='https://developer.android.com/tools/extras/support-library.html' rel='nofollow'>Android Support Library collections</a> (Utility) <span class='toggle' toggle='androidx_collection_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_collection_468' class='libdetails' style='visibility:hidden;display:none;'>standalone efficient collections.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/compose' rel='nofollow'>Jetpack Compose</a> (Development Framework) <span class='toggle' toggle='androidx_compose_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_compose_468' class='libdetails' style='visibility:hidden;display:none;'>a framework to define UIs programmatically with composable functions that describe its shape and data dependencies.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/concurrent' rel='nofollow'>Concurrent</a> (Utility) <span class='toggle' toggle='androidx_concurrent_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_concurrent_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to help move tasks off the main thread with coroutines and take advantage of ListenableFuture.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/core' rel='nofollow'>Androidx Core</a> (Utility) <span class='toggle' toggle='androidx_core_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_core_468' class='libdetails' style='visibility:hidden;display:none;'>a static library that you can add to your Android application in order to use APIs that are either not available for older platform versions or utility APIs that aren't a part of the framework APIs.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/customview/' rel='nofollow'>Android Support Library Custom View</a> (UI Component) <span class='toggle' toggle='androidx_customview_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_customview_468' class='libdetails' style='visibility:hidden;display:none;'>a module to implement custom views. Part of the Android Support Library.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/datastore' rel='nofollow'>DataStore</a> (Development Aid) <span class='toggle' toggle='androidx_datastore_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_datastore_468' class='libdetails' style='visibility:hidden;display:none;'>stores data asynchronously, consistently, and transactionally, overcoming some of the drawbacks of SharedPreferences.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/emoji2/' rel='nofollow'>Android Emoji2 Compat</a> (UI Component) <span class='toggle' toggle='androidx_emoji2_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_emoji2_468' class='libdetails' style='visibility:hidden;display:none;'>core library to enable emoji compatibility in Kitkat and newer devices to avoid the empty emoji characters.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/fragment/' rel='nofollow'>AndroidX Fragment</a> (UI Component) <span class='toggle' toggle='androidx_fragment_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_fragment_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to encapsulate part of the user interface or behavior into reusable components.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/graphics' rel='nofollow'>Androidx Graphics</a> (Utility) <span class='toggle' toggle='androidx_graphics_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_graphics_468' class='libdetails' style='visibility:hidden;display:none;'>leverages graphics facilities across multiple Android platform releases.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/interpolator' rel='nofollow'>Interpolator</a> (UI Component) <span class='toggle' toggle='androidx_interpolator_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_interpolator_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to use animation interpolators on older platforms.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/lifecycle' rel='nofollow'>Lifecycle</a> (Utility) <span class='toggle' toggle='androidx_lifecycle_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_lifecycle_468' class='libdetails' style='visibility:hidden;display:none;'>perform actions in response to a change in the lifecycle status of another component, such as activities and fragments.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/loader' rel='nofollow'>Loader</a> (Utility) <span class='toggle' toggle='androidx_loader_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_loader_468' class='libdetails' style='visibility:hidden;display:none;'>library to load data for your UI that survives configuration changes.</div></li>
+            <li><a href='https://github.com/androidx/androidx/tree/androidx-main/navigation3' rel='nofollow'>Androidx Navigation 3</a> (UI Component) <span class='toggle' toggle='androidx_navigation3_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_navigation3_468' class='libdetails' style='visibility:hidden;display:none;'>provides the building blocks for a Compose first Navigation solution that easily supports extensions.</div></li>
+            <li><a href='https://github.com/androidx/androidx/tree/androidx-main/navigationevent' rel='nofollow'>Androidx Navigation Event</a> (UI Component) <span class='toggle' toggle='androidx_navigationevent_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_navigationevent_468' class='libdetails' style='visibility:hidden;display:none;'>provides APIs to easily intercept platform navigation events, including swipes and clicks, to provide a consistent API surface for handling these events.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/profileinstaller' rel='nofollow'>ProfileInstaller</a> (Utility) <span class='toggle' toggle='androidx_profileinstaller_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_profileinstaller_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library that enables libraries to prepopulate ahead of time compilation traces to be read by ART.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/room' rel='nofollow'>Room</a> (Utility) <span class='toggle' toggle='androidx_room_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_room_468' class='libdetails' style='visibility:hidden;display:none;'>a persistence library that provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx' rel='nofollow'>Android Activity Saved State</a> (Utility) <span class='toggle' toggle='androidx_savedstate_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_savedstate_468' class='libdetails' style='visibility:hidden;display:none;'>provides the base Activity subclass and the relevant hooks to build a composable structure on top.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/sqlite' rel='nofollow'>Sqlite</a> (Utility) <span class='toggle' toggle='androidx_sqlite_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_sqlite_468' class='libdetails' style='visibility:hidden;display:none;'>library that contains abstract interfaces along with basic implementations which can be used to build your own libraries that access SQLite.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/startup' rel='nofollow'>Startup</a> (Utility) <span class='toggle' toggle='androidx_startup_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_startup_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to implement a straightforward, performant way to initialize components at app startup.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/tracing' rel='nofollow'>Tracing</a> (Utility) <span class='toggle' toggle='androidx_tracing_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_tracing_468' class='libdetails' style='visibility:hidden;display:none;'>AndroidX library to write trace events to the system trace buffer.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/tv' rel='nofollow'>AndroidX TV</a> (UI Component) <span class='toggle' toggle='androidx_tv_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_tv_468' class='libdetails' style='visibility:hidden;display:none;'>provides developers with Compose and Material design functionalities in order to write applications for TV</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/versionedparcelable' rel='nofollow'>Android Jetpack VersionedParcelable</a> (Utility) <span class='toggle' toggle='androidx_versionedparcelable_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_versionedparcelable_468' class='libdetails' style='visibility:hidden;display:none;'>Provides a stable but relatively compact binary serialization format that can be passed across processes or persisted safely.</div></li>
+            <li><a href='https://android.googlesource.com/platform/frameworks/support/+/refs/heads/androidx-main/window/' rel='nofollow'>Jetpack WindowManager Library</a> (Utility) <span class='toggle' toggle='androidx_window_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_window_468' class='libdetails' style='visibility:hidden;display:none;'>enables application developers to support new device form factors and multi-window environments. The library provides a common API surface for API versions 14 and later. Especially provides additional functionality on foldable devices.</div></li>
+            <li><a href='https://developer.android.com/jetpack/androidx/releases/work' rel='nofollow'>WorkManager</a> (Utility) <span class='toggle' toggle='androidx_work_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='androidx_work_468' class='libdetails' style='visibility:hidden;display:none;'>an API that makes it easy to schedule deferrable, asynchronous tasks that must be run reliably .</div></li>
+            <li><a href='https://github.com/google/smali' rel='nofollow'>smali/baksmali</a> (Utility) <span class='toggle' toggle='com_android_tools_smali_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_android_tools_smali_468' class='libdetails' style='visibility:hidden;display:none;'>an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.</div></li>
+            <li><a href='https://github.com/ernestoyaquello/DragDropSwipeLazyColumn' rel='nofollow'>Drag & Drop n' Swipe LazyColumn</a> (UI Component) <span class='toggle' toggle='com_ernestoyaquello_dragdropswipelazycolumn_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_ernestoyaquello_dragdropswipelazycolumn_468' class='libdetails' style='visibility:hidden;display:none;'>Kotlin Android library for Jetpack Compose that implements a lazy column with drag-and-drop reordering and swipe-to-dismiss functionality.</div></li>
+            <li><a href='https://github.com/EsotericSoftware/kryo' rel='nofollow'>Kryo</a> (Utility) <span class='toggle' toggle='com_esotericsoftware_kryo_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_esotericsoftware_kryo_468' class='libdetails' style='visibility:hidden;display:none;'>an object graph serialization framework for Java.</div></li>
+            <li><a href='https://github.com/google/accompanist' rel='nofollow'>Accompanist</a> (Utility) <span class='toggle' toggle='com_google_accompanist_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_accompanist_468' class='libdetails' style='visibility:hidden;display:none;'>a collection of extension libraries for Jetpack Compose.</div></li>
+            <li><a href='https://github.com/google/guava' rel='nofollow'>Google Core Libraries for Java 6+</a> (Utility) <span class='toggle' toggle='com_google_common_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_common_468' class='libdetails' style='visibility:hidden;display:none;'>a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, functional types, an in-memory cache, and APIs/utilities for concurrency, I/O, hashing, primitives, reflection, string processing, and much more.</div></li>
+            <li><a href='https://github.com/zxing/zxing' rel='nofollow'>ZXing ('Zebra Crossing')</a> (Utility) <span class='toggle' toggle='com_google_zxing_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_google_zxing_468' class='libdetails' style='visibility:hidden;display:none;'>ZXing („zebra crossing“) is an open-source, multi-format 1D/2D barcode image processing library.</div></li>
+            <li><a href='https://github.com/JakeWharton/ProcessPhoenix' rel='nofollow'>Process Phoenix</a> (Utility) <span class='toggle' toggle='com_jakewharton_processphoenix_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_jakewharton_processphoenix_468' class='libdetails' style='visibility:hidden;display:none;'>facilitates restarting your application process (like a Phoenix from the ashes).</div></li>
+            <li><a href='https://github.com/mikepenz/AboutLibraries' rel='nofollow'>AboutLibraries</a> (Utility) <span class='toggle' toggle='com_mikepenz_aboutlibraries_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_mikepenz_aboutlibraries_468' class='libdetails' style='visibility:hidden;display:none;'>a library to offer some information about libraries.</div></li>
+            <li><a href='https://github.com/skydoves/compose-stability-analyzer' rel='nofollow'>Compose Stability Analyzer</a> (Utility) <span class='toggle' toggle='com_skydoves_compose_stability_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_skydoves_compose_stability_468' class='libdetails' style='visibility:hidden;display:none;'>Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.</div></li>
+            <li><a href='https://github.com/Qawaz/compose-code-editor' rel='nofollow'>Compose Code Editor (Multiplatform)</a> (Utility) <span class='toggle' toggle='com_wakaztahir_codeeditor_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='com_wakaztahir_codeeditor_468' class='libdetails' style='visibility:hidden;display:none;'>a code highlighting / editing library for compose , it does not make use of web view so it renders fast.</div></li>
+            <li><a href='https://github.com/google/dagger' rel='nofollow'>Dagger</a> (Utility) <span class='toggle' toggle='dagger_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='dagger_468' class='libdetails' style='visibility:hidden;display:none;'>A fast dependency injector for Android and Java.</div></li>
+            <li><a href='https://github.com/oikvpqya/fastscroller-compose-multiplatform' rel='nofollow'>FastScroller for Compose Multiplatform</a> (UI Component) <span class='toggle' toggle='io_github_oikvpqya_compose_fastscroller_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='io_github_oikvpqya_compose_fastscroller_468' class='libdetails' style='visibility:hidden;display:none;'>a scrollbar for Compose Multiplatform.</div></li>
+            <li><a href='https://github.com/vinceglb/FileKit' rel='nofollow'>FileKit</a> (Utility) <span class='toggle' toggle='io_github_vinceglb_filekit_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='io_github_vinceglb_filekit_468' class='libdetails' style='visibility:hidden;display:none;'>a cross-platform file operations library for Kotlin Multiplatform.</div></li>
+            <li><a href='https://docs.oracle.com/javaee/6/api/javax/inject/package-summary.html' rel='nofollow'>JavaX Dependency Injection</a> (Utility) <span class='toggle' toggle='javax_inject_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='javax_inject_468' class='libdetails' style='visibility:hidden;display:none;'>specifies a means for obtaining objects in such a way as to maximize reusability, testability and maintainability compared to traditional approaches such as constructors, factories, and service locators (e.g., JNDI). This process, known as dependency injection, is beneficial to most nontrivial applications.</div></li>
+            <li><a href='https://github.com/JetBrains/kotlin' rel='nofollow'>Kotlin</a> (Utility) <span class='toggle' toggle='kotlin_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlin_468' class='libdetails' style='visibility:hidden;display:none;'>The Kotlin Programming Language</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.atomicfu' rel='nofollow'>AtomicFU</a> (Utility) <span class='toggle' toggle='kotlinx_atomicfu_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_atomicfu_468' class='libdetails' style='visibility:hidden;display:none;'>the idiomatic way to use atomic operations in Kotlin.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.collections.immutable' rel='nofollow'>Immutable Collections Library for Kotlin</a> (Utility) <span class='toggle' toggle='kotlinx_collections_immutable_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_collections_immutable_468' class='libdetails' style='visibility:hidden;display:none;'>immutable collection interfaces and implementation prototypes for Kotlin.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.coroutines' rel='nofollow'>kotlinx.coroutines</a> (Utility) <span class='toggle' toggle='kotlinx_coroutines_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_coroutines_468' class='libdetails' style='visibility:hidden;display:none;'>library support for Kotlin coroutines.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx-datetime' rel='nofollow'>kotlinx-datetime</a> (Utility) <span class='toggle' toggle='kotlinx_datetime_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_datetime_468' class='libdetails' style='visibility:hidden;display:none;'>a multiplatform Kotlin library for working with date and time.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx-io' rel='nofollow'>kotlinx-io</a> (Utility) <span class='toggle' toggle='kotlinx_io_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_io_468' class='libdetails' style='visibility:hidden;display:none;'>a multiplatform Kotlin library providing basic IO primitives.</div></li>
+            <li><a href='https://github.com/Kotlin/kotlinx.serialization' rel='nofollow'>Kotlin serialization</a> (Utility) <span class='toggle' toggle='kotlinx_serialization_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='kotlinx_serialization_468' class='libdetails' style='visibility:hidden;display:none;'>Kotlin cross-platform / multi-format serialization.</div></li>
+            <li><a href='https://github.com/zhanghai/ComposePreference' rel='nofollow'>Compose Preference</a> (UI Component) <span class='toggle' toggle='me_zhanghai_compose_preference_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='me_zhanghai_compose_preference_468' class='libdetails' style='visibility:hidden;display:none;'>preference implementation for Jetpack Compose Material 3.</div></li>
+            <li><a href='https://github.com/square/okio' rel='nofollow'>OkHttp okio Framework</a> (Utility) <span class='toggle' toggle='okio_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='okio_468' class='libdetails' style='visibility:hidden;display:none;'>A modern I/O API for Java to make it much easier to access, store, and process your data.</div></li>
+            <li><a href='http://ini4j.sourceforge.net/' rel='nofollow'>ini4j</a> (Utility) <span class='toggle' toggle='org_ini4j_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_ini4j_468' class='libdetails' style='visibility:hidden;display:none;'>Java API for handling Windows ini file format.</div></li>
+            <li><a href='https://github.com/JetBrains/compose-multiplatform' rel='nofollow'>Compose Multiplatform</a> (Development Framework) <span class='toggle' toggle='org_jetbrains_compose_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_jetbrains_compose_468' class='libdetails' style='visibility:hidden;display:none;'>a declarative framework for sharing UIs across multiple platforms with Kotlin.</div></li>
+            <li><a href='https://github.com/Ekito/koin' rel='nofollow'>KOIN</a> (Utility) <span class='toggle' toggle='org_koin_468'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='org_koin_468' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+          <div id='pays468' class='liblist'><b>Payment Modules:</b><ul>
+            <li>None found <span class='hidden'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='no_pay_468' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+          <div id='admods468' class='liblist'><b>Ads &amp; Analytics:</b><ul>
+            <li>None found <span class='hidden'><!--a href='#$' class='popup_help' title="Details"--><img class='applink_icon' src='/fdroid/templates/icons/info.png'><!--/a--></span>
+              <div id='no_ad_468' class='libdetails' style='visibility:hidden;display:none;'>a small library to lets you write dependency injection in a concise and pragmatic way.</div></li></ul></div>
+        </div>
+      </div>
+      <p><a class='paddedlink' href='/fdroid/repo/fr.husi_468.apk'>Download</a> (24.3 M)</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div id='footer'><a href='/fdroid' title='Package index'>Package Index</a></div>
+</BODY></HTML>
